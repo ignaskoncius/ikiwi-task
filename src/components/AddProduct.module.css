@@ -1,0 +1,16 @@
+.addProductSection {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 0 auto;
+  width: 30%;
+  height: 135px;
+}
+
+.addProductBtn {
+  background-color: rgb(102, 78, 240);
+  width: 200px;
+  height: 40px;
+  font-weight: 600;
+  color: whitesmoke;
+}

@@ -1,0 +1,23 @@
+.addProductForm {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 70%;
+  flex-wrap: wrap;
+}
+
+.addProductForm select,
+input {
+  width: 50%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 10px;
+  border: solid 1px black;
+}
+
+.saveBtn {
+  background-color: rgb(59, 158, 29);
+  width: 150px;
+  font-weight: 600;
+  color: whitesmoke;
+}
